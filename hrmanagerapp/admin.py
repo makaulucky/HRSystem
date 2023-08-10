@@ -10,3 +10,5 @@ admin.site.register(Department)
 admin.site.register(Employee)
 
 admin.site.site_header = "HR Admin System"
+admin.site.site_title = "System Admin"
+admin.site.index_title = "Welcome to HRM"
